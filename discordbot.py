@@ -11,7 +11,7 @@ class DiscordBot:
     def __init__(self,api_url,token):
         self.api_url = api_url
         self.token = token
-        #Nzg0MDUyMDEzODAxMDEzMjQ4.X8jrVw.ucPKWU2L7mSLL9Qy7FqnltspOE8
+        
 
     def botReady(self):
         client = commands.Bot(command_prefix = ".")
