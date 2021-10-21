@@ -9,6 +9,6 @@ import json
 
 
 def main():
-    bot = DiscordBot("https://discord.com/api","Nzg0MDUyMDEzODAxMDEzMjQ4.X8jrVw.ucPKWU2L7mSLL9Qy7FqnltspOE8")
+    bot = DiscordBot("https://discord.com/api","Nzg0MDUyMDEzODAxMDEzMjQ4.X8jrVw.kJENzkt7gdlAY3nvpALZDaApZDE")
     bot.botReady()
 main()
