@@ -9,6 +9,6 @@ import json
 
 
 def main():
-    bot = DiscordBot("https://discord.com/api","Token goes Here")
+    bot = DiscordBot("https://discord.com/api","Token goes Here") #for privacy reasons, token was not allowed to be uploaded
     bot.botReady()
 main()
